@@ -4,10 +4,9 @@ Traffic-Net is a dataset containing images of dense traffic, sparse traffic, acc
 <img src="images/traffic_net.jpg" />
 <hr>
 <b>Traffic-Net</b> is a dataset of traffic images, collected in order to ensure that machine learning systems can be trained
- to detect traffic conditions and provide real-time monitoring, analytics and alerts. This is part of <a href="https://deepquestai.com" >DeepQuest AI</a>'s to train machine learning systems to 
-  perceive, understand and act accordingly in solving problems in any environment they are deployed. <br><br>
+ to detect traffic conditions and provide real-time monitoring, analytics and alerts. This previous version was initially released by <a href="https://deepquestai.com" >DeepQuest AI</a>'s team<br><br>
 
-  This is the first release of the Traffic-Net dataset. It contains 4,400 images that span cover 4 classes. The classes
+  This is the second release of the Traffic-Net dataset. It contains 4,,455 images that span cover 4 classes. The classes
   included in this release are: <br><br>
 
   - <b> Accident </b> <br>
@@ -15,13 +14,13 @@ Traffic-Net is a dataset containing images of dense traffic, sparse traffic, acc
   - <b> Fire </b> <br>
   - <b> Sparse Traffic </b> <br>
 
-  There are <b>1,100 images</b> for each category, with <b>900 images for trainings </b> and <b>200 images for testing</b> . We are working on adding more
+  There are <b>1,100 images</b> for each category, with <b>925 images for trainings </b> and <b>200 images for testing</b> . We are working on adding more
    categories in the future and will continue to improve the dataset.
   <br><br> <br> <br>
 
   <b>>>> DOWNLOAD, TRAINING AND PREDICTION: </b> <br><br>
  The <b>Traffic-Net</b> dataset is provided for download in the <b>release</b> section of this repository.
- You can download the dataset via the link below.<br><br> <a href="https://github.com/OlafenwaMoses/Traffic-Net/releases/tag/1.0" >https://github.com/OlafenwaMoses/Traffic-Net/releases/tag/1.0</a>  <br><br>
+ You can download the dataset via the link below.<br><br> <a href="https://github.com/OlafenwaMoses/Traffic-Net/releases/tag/1.0" >https://github.com/AhmedMnsour/Traffic-Net/releases/tag/v1.01</a>  <br><br>
 
  We have also provided a python codebase to download the images, train <b>ResNet50</b> on the images
   and perform prediction using a pretrained model (also using <b>ResNet50</b>) provided in the release section of this repository.
