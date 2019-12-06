@@ -14,7 +14,7 @@ Traffic-Net is a dataset containing images of dense traffic, sparse traffic, acc
   - <b> Fire </b> <br>
   - <b> Sparse Traffic </b> <br>
 
-  There are <b>1,100 images</b> for each category, with <b>925 images for trainings </b> and <b>200 images for testing</b> . We are working on adding more
+  There are <b>1,125 images</b> for each category, with <b>925 images for trainings </b> and <b>200 images for testing</b> . We are working on adding more
    categories in the future and will continue to improve the dataset.
   <br><br> <br> <br>
 
