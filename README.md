@@ -4,9 +4,9 @@ Traffic-Net is a dataset containing images of dense traffic, sparse traffic, acc
 <img src="images/traffic_net.jpg" />
 <hr>
 <b>Traffic-Net</b> is a dataset of traffic images, collected in order to ensure that machine learning systems can be trained
- to detect traffic conditions and provide real-time monitoring, analytics and alerts. This previous version was initially released by <a href="https://deepquestai.com" >DeepQuest AI</a>'s team<br><br>
+ to detect traffic conditions and provide real-time monitoring, analytics and alerts. The previous release was initially released by <a href="https://deepquestai.com" >DeepQuest AI</a>'s team<br><br>
 
-  This is the second release of the Traffic-Net dataset. It contains 4,,455 images that span cover 4 classes. The classes
+  This is the second release of the Traffic-Net dataset. It contains 4,455 images that span cover 4 classes. The classes
   included in this release are: <br><br>
 
   - <b> Accident </b> <br>
